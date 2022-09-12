@@ -15,5 +15,5 @@ Or from this link: https://github.com/Gameknight-Bit/StudentCouncilWebpage
 I'm not exactly sure how the network for West Shamokin is set up; however, having the ability to host a website locally from 2 separate wifi networks may allow for other "vulnerabilities" in the network.
 It also allows for access to the ASDPrivate network without a password (which could be bad if a student or malicious exploiter got a hold of it)
 
-I am not exactly sure how local wifi websites are hosted work exactly with Flask; however, I do know that being able to access ASDPrivate from ASDPublic is probably a bad thing
+I am not exactly sure how local wifi websites work exactly being hosted with Flask; however, I do know that being able to access ASDPrivate from ASDPublic is most likely a problem
 
